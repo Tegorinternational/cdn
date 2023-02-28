@@ -1,12 +1,12 @@
-@font-face {font-family: solidicon; src: url(/assets/css/fa-solid-900.ttf);}
+@font-face {font-family: solidicon; src: url(fa-solid-900.ttf);}
 
-@font-face {font-family: brands; src: url(/assets/css/fa-brands-400.ttf);}
+@font-face {font-family: brands; src: url(fa-brands-400.ttf);}
 
-@font-face {font-family: regular; src: url(/assets/css/Brands-Regular-400.otf);}
+@font-face {font-family: regular; src: url(Brands-Regular-400.otf);}
 
-@font-face {font-family: free; src: url(/assets/css/Free-Regular-400.otf);}
+@font-face {font-family: free; src: url(Free-Regular-400.otf);}
 
-@font-face {font-family: freesolid; src: url(/assets/css/Free-Solid-900.otf);}
+@font-face {font-family: freesolid; src: url(Free-Solid-900.otf);}
 
 .fa-solid{font-family: solidicon;}
 .fa-brands{font-family: brands;}
